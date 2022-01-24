@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    <h1>🐾 QuickStart-Vue3-CLI<h1/>
+<h1>🐾 QuickStart-Vue3-CLI</h1>
 </p>
 <p>
   <a href="https://www.npmjs.org/package/quickstart-vue3-cli" target='_blank'>
@@ -13,10 +13,7 @@
   <a href="https://npmcharts.com/compare/quickstart-vue3-cli?minimal=true" target='_blank'>
     <img src="https://img.shields.io/github/size/yesmore/QuickStart-Vue3-CLI/index.js">
   </a>
-  <a href="https://gitter.im/yesmore/yesmoreforchat" target='_blank'>
-    <img src="https://img.shields.io/gitter/room/yesmore/yesmoreforchat" alt="chat"/>
-  </a>
-  <img src="https://img.shields.io/github/license/yesmore/QuickStart-Vue3-CLI" alt="GPL"/>  
+    <img src="https://img.shields.io/github/license/yesmore/QuickStart-Vue3-CLI" alt="GPL"/> 
 </p>
 
 QuickStart-Vue3-CLI — 把**快**贯彻到底。
