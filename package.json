@@ -1,0 +1,46 @@
+{
+  "name": "quickstart-vue3-cli",
+  "version": "0.1.1",
+  "description": "Scaffolding tools developed for quickstart-vue3.",
+  "main": "index.js",
+  "private": false,
+  "keywords": [
+    "cli",
+    "Scaffolding",
+    "vue3",
+    "wheel",
+    "pinia",
+    "vue"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yesmore/QuickStart-Vue3-CLI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yesmore/QuickStart-Vue3-CLI/issues"
+  },
+  "bin": {
+    "qsvc": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "yesmore",
+    "email": "3224266014@qq.com"
+  },
+  "license": "GPL",
+  "dependencies": {
+    "commander": "^8.3.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.6"
+  },
+  "peerDependencies": {
+    "commander": "^8.3.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.6"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
