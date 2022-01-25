@@ -36,6 +36,8 @@ QuickStart-Vue3-CLI — 把**快**贯彻到底。
 #### 安装脚手架
 
 ```shell
+$ yarn add quickstart-vue3-cli -g
+# or
 $ npm i -g quickstart-vue3-cli
 ```
 
@@ -105,7 +107,9 @@ $ qsvc addstore Auth
 $ qsvc addstore Auth -d src/store/modules
 ```
 
-
+> 模块名规范
+>
+> 建议所有模块名（pages、components、stores）使用**首驼峰**规范命名。
 
 #### 其他功能
 
