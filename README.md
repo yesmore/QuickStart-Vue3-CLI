@@ -10,11 +10,10 @@
   <a href="https://npmcharts.com/compare/quickstart-vue3-cli?minimal=true" target='_blank'>
     <img src="https://img.shields.io/npm/dt/quickstart-vue3-cli.svg">
   </a>
-  <a href="https://npmcharts.com/compare/quickstart-vue3-cli?minimal=true" target='_blank'>
-    <img src="https://img.shields.io/github/size/yesmore/QuickStart-Vue3-CLI/index.js">
-  </a>
+    <img src="https://img.shields.io/github/languages/code-size/yesmore/QuickStart-Vue3-CLI">
     <img src="https://img.shields.io/github/license/yesmore/QuickStart-Vue3-CLI" alt="GPL"/> 
 </p>
+
 
 QuickStart-Vue3-CLI — 把**快**贯彻到底。
 
